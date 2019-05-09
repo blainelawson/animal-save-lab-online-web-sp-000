@@ -12,6 +12,6 @@ html {
 @media only screen and (min-width: 406px) and (max-width: 1170px) {
   img[alt="Mischief Monkey"] {
     position: relative;
-    bottom: 400px;
+    bottom: 600px;
   }
 }
