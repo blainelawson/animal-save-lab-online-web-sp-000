@@ -23,6 +23,6 @@ html {
   img[alt="Friendly Dolphin"] {
     position: relative;
     transform: rotate(1.5turn);
-    bottom: 100px;
+    bottom: 300px;
   }
 }
